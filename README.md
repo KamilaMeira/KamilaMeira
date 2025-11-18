@@ -75,17 +75,14 @@ Aqui no GitHub compartilho minha evolução, meus estudos e tudo o que estou des
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg"         
 />
 <img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="data:image/svg+xml;utf8,
-    <svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'>
-      <rect width='64' height='64' rx='10' fill='%23346beb'/>
-      <text x='50%' y='57%' font-size='32' fill='white' font-family='Arial' font-weight='bold' text-anchor='middle'>SQL</text>
-    </svg>"
+  alt="SQL"
+  title="SQL"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://i.imgur.com/SeuCodigo.png"        
 />
+
+
 <!--<img 
     align="left" 
     alt="Next.js" 
@@ -156,7 +153,7 @@ Aqui no GitHub compartilho minha evolução, meus estudos e tudo o que estou des
     title="Python"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/database/database-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 -->
 
@@ -174,11 +171,12 @@ Aqui no GitHub compartilho minha evolução, meus estudos e tudo o que estou des
     src="https://github-readme-stats.vercel.app/api?username=KamilaMeira&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
+<!--<img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamilaMeira&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamilaMeira&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
   />
 
 </p>
+-->
